@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-style: none;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    color: var(--Gray);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    background-color: #fff;
+    box-sizing: border-box;
+    font-weight: 500;
+}
+
+:root{
+    --Gray: #667085;
+    --Dark-grey: #3A404E;
+    --White: #ffffff;
+
+    --Red: #8E2424;
+}
+
+/* Cabecalho */
+
+.cabecalho{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    width: 100%;
+    padding: 0 32px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.button-base{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+}
+
+.button-base p{
+    font-size: 18px;
+    color: var(--Dark-grey);
+}
+
+.button-base img{
+    width: 27px;
+}
+
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:40px
+}
+
+.content a{
+    font-size: 16px;
+}
+
+.navigations{
+    display: flex;
+    padding-left: 15em;
+    gap: 12px;
+}
+
+.navigations button{
+    cursor: pointer;
+}
+
+.btn-2{
+    width: 112px;
+    height: 44px;
+    border-radius: 8px;
+    background: var(--Red);
+    color: var(--White);
+}
