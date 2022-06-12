@@ -27,12 +27,10 @@
 /* CABECALHO */
 
 .cabecalho{
-    width: 100%;
     display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 1.5em 7em;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem 0;
 }
 
 .button-base{
@@ -56,7 +54,6 @@
     flex-direction: row;
     align-items: center;
     gap: 40px;
-    margin-left: 10em;
 }
 
 .navigations{
@@ -88,7 +85,7 @@
     flex-direction: column;
     align-items: center;
     gap: 24px;
-    padding: 6em 0;
+    padding: 6em 2em;
 }
 
 .cabecalho-2 span{
@@ -106,5 +103,38 @@
     width: 790px;
     font-size: 20px;
     text-align: center;
+    font-weight: 400;
+}
+
+/* MÉTRICAS */
+
+.metricas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    padding-bottom: 96px;
+}
+
+.metrica{
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.metrica h1{
+    font-size: 60px;
+    color: var(--Red);
+    font-weight: 600;
+}
+
+.metrica span{
+    font-size: 18px;
+    color: var(--Dark-grey);
+}
+
+.metrica p{
     font-weight: 400;
 }
