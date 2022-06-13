@@ -1,4 +1,4 @@
-# 7DaysOfCode
+# 7DaysOfCode (obs.: não está responsivo, mas pretendo mais pra frente arrumar isso :* )
 Challeng para uma pagina usando html e css.
 
 # Dia 1
