@@ -12,3 +12,19 @@ Sobre nós
 # Dia 3
 Métricas e Resultados
 ![image](https://user-images.githubusercontent.com/61144266/173247884-b96c0826-0be5-4371-be58-fea46571c9c1.png)
+
+# Dia 4
+Hora de brincar com imagens fazendo a parte de vagas
+![image](https://user-images.githubusercontent.com/61144266/173264670-eb2d98bb-f2c2-4afe-8b29-131ff2084bc8.png)
+
+# Dia 5
+Continuando na seção de vagas, mas agora com os blocos com informações sobre cada vaga
+![image](https://user-images.githubusercontent.com/61144266/173264740-fb24f9f9-5933-44af-9533-f245c96482eb.png)
+
+# Dia 6
+Fazendo a seção de depoimentos
+![image](https://user-images.githubusercontent.com/61144266/173264821-431716d7-7929-4367-b3d2-ae798664c97f.png)
+
+# Dia 7
+Finalizando com o rodapé acompanhado de um pequeno formulário
+![image](https://user-images.githubusercontent.com/61144266/173264877-6456aaff-0dbe-4d16-8d13-711ad35b1777.png)
